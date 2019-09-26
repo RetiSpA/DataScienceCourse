@@ -24,8 +24,6 @@ Benvenuti al corso Data Science Reti
 
 Questo è un corso introduttivo base, tenuto da: Andrea Guzzo e Salvatore Albore.
 
-Grazie mille a Salvatore < >
-
 L'obiettivo del corso è quello di insegnare le basi e tutto quello che c'è da sapere per iniziare a praticare il magico mondo della Scienza dei Dati.
 
 
