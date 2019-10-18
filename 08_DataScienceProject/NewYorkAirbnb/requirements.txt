@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+plotly
+wordcloud
+hunga_bunga
+xgboost
